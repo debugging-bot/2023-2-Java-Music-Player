@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/368c0f57-3ec1-4fc7-a8f4-74b7ba284b24
 
 ## 🚀 주요 기능
 * **Java Swing 기반 UI:** 직관적인 플레이어 인터페이스와 재생, 일시 정지, 재시작 제어 구현
-* **다중 스레드(Thread) 동기화:** 오디오 재생과 Progress Bar(진행 바)를 실시간으로 맞추기 위해 머리를 싸매고 구현한 멀티스레딩
+* **다중 스레드(Thread) 동기화:** 오디오 재생과 Progress Bar(진행 바)를 실시간으로 맞추기 위해 구현한 멀티스레딩
 * **외부 웹 연동:** 앨범 표지나 가수 이름을 누르면 관련 웹페이지로 날아가는 하이퍼링크 기능
 * **가사 뷰어:** 스크롤 가능한 별도의 창으로 가사 화면 제공
 
@@ -27,4 +27,3 @@ https://github.com/user-attachments/assets/368c0f57-3ec1-4fc7-a8f4-74b7ba284b24
 * **Language:** `Java`
 * **GUI Framework:** `Java Swing`
 * **Audio Handling:** `javax.sound.sampled` (`Clip`, `AudioInputStream`)
-* **Developer Mental:** 붕괴 직전의 정신줄
